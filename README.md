@@ -4,14 +4,14 @@
 
 I'm an Engineering Systems student at USIL  
 
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, DSS, HTML, etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to play videogames and ride mountain bike.
 
 ---
 
-<img align="right" alt="GIF" height="190px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+<img align="right" alt="GIF" height="190px" src="https://i.gifer.com/origin/dd/ddb2de16735c7bbf6ad3a6ad748d12e7_w200.gif" />
 
 ### Spotify Playing 🎧
 
