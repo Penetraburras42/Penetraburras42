@@ -1,6 +1,6 @@
 # Hi there, I'm Rio Ferdinand <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://howto.reaconverter.com/make-animated-gif/" />
+<img align="right" alt="GIF" height="160px" src="https://howto.reaconverter.com/wp-content/uploads/2015/10/banana.gif" />
 
 I'm an Engineering Systems student at USIL  
 
