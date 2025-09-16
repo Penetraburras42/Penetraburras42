@@ -15,7 +15,7 @@ I'm an Engineering Systems student at USIL
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/tbzk5lhrdmzi763lrc4w9objr?si=a52a79fcf4934ea7)
 
 ---
 
