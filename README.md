@@ -11,7 +11,7 @@ I'm an Engineering Systems student at USIL
 
 ---
 
-<img align="right" alt="GIF" height="190px" src="https://i.gifer.com/origin/dd/ddb2de16735c7bbf6ad3a6ad748d12e7_w200.gif" />
+<img align="right" alt="GIF" height="170px" src="https://i.gifer.com/origin/dd/ddb2de16735c7bbf6ad3a6ad748d12e7_w200.gif" />
 
 ### Spotify Playing 🎧
 
